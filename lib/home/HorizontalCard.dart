@@ -18,7 +18,7 @@ class HorizontalCard extends StatelessWidget {
       },
           child: Container(
         margin: EdgeInsets.symmetric(horizontal: 7.0),
-        width: 120,
+        width: 100,
         child: Stack(
           alignment: Alignment.bottomCenter,
           children: <Widget>[
