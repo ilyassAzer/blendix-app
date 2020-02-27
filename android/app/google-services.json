@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260380609496",
+    "firebase_url": "https://blendix-database.firebaseio.com",
+    "project_id": "blendix-database",
+    "storage_bucket": "blendix-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260380609496:android:30a437d1ab481a2adec0ad",
+        "android_client_info": {
+          "package_name": "com.example.blendix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260380609496-qpgh5oost449ucsfambtd5vt6ungutkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7MyvPgyJVBU3feULoeeBg0w0JO1-yb5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260380609496-qpgh5oost449ucsfambtd5vt6ungutkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
